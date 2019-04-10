@@ -1,0 +1,117 @@
+﻿Log file open, 01/26/19 15:57:42
+LogInit:Display: Running engine for game: DemonAIProject
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2019.01.26-13.57.42:329][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2019.01.26-13.57.42:374][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2019.01.26-13.57.42:420][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2019.01.26-13.57.42:432][  0]LogInit: Object subsystem initialized
+[2019.01.26-13.57.42:436][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2019.01.26-13.57.42:436][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2019.01.26-13.57.42:436][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480,Value=0.444),(Time=720,Value=0.666),(Time=1080,Value=1.0),(Time=8640,Value=8.0))),ExternalCurve=None)'
+[2019.01.26-13.57.42:436][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2019.01.26-13.57.42:437][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.26-13.57.42:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.26-13.57.42:444][  0]LogInit: Computer: DESKTOP-0OFQH0I
+[2019.01.26-13.57.42:444][  0]LogInit: User: PaulCornelDeveloper
+[2019.01.26-13.57.42:450][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.26-13.57.42:450][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.26-13.57.42:450][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx) Virtual=131072.0GB
+[2019.01.26-13.57.42:450][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.26-13.57.42:450][  0]LogMemory: Process Physical Memory: 66.37 MB used, 66.37 MB peak
+[2019.01.26-13.57.42:450][  0]LogMemory: Process Virtual Memory: 40.96 MB used, 40.96 MB peak
+[2019.01.26-13.57.42:450][  0]LogMemory: Physical Memory: 3245.84 MB used, 7114.43 MB total
+[2019.01.26-13.57.42:450][  0]LogMemory: Virtual Memory: 4427.70 MB used, 134217728.00 MB total
+[2019.01.26-13.57.42:525][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 730 (Feature Level 11_0)
+[2019.01.26-13.57.42:525][  0]LogD3D11RHI: Adapter has 2018MB of dedicated video memory, 0MB of dedicated system memory, and 3557MB of shared system memory, 1 output[s]
+[2019.01.26-13.57.42:548][  0]LogD3D11RHI: Found D3D11 adapter 1: AMD Radeon(TM) R7 Graphics (Feature Level 11_0)
+[2019.01.26-13.57.42:548][  0]LogD3D11RHI: Adapter has 1006MB of dedicated video memory, 0MB of dedicated system memory, and 3557MB of shared system memory, 0 output[s]
+[2019.01.26-13.57.42:552][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
+[2019.01.26-13.57.42:552][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 3557MB of shared system memory, 0 output[s]
+[2019.01.26-13.57.42:552][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2019.01.26-13.57.42:566][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2019.01.26-13.57.42:600][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.26-13.57.42:661][  0]LogTextLocalizationManager: The requested culture ('ro_RO') has no localization data; falling back to 'en' for localization and internationalization data.
+[2019.01.26-13.57.42:890][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2019.01.26-13.57.48:617][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.26-13.57.49:357][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.26-13.57.49:485][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2019.01.26-13.57.49:777][  0]LogDerivedDataCache: Loaded boot cache 0.29s 39MB C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2019.01.26-13.57.49:777][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2019.01.26-13.57.49:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.26-13.57.49:778][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.26-13.57.49:855][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2019.01.26-13.57.49:869][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.26-13.57.50:198][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2019.01.26-13.57.50:198][  0]LogMeshUtilities: No automatic mesh merging module available
+[2019.01.26-13.57.50:598][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.26-13.57.50:602][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.26-13.57.50:934][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.26-13.58.04:161][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.26-13.58.04:525][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Binaries/Win64. Error: 0
+[2019.01.26-13.58.04:771][  0]SourceControl: Info Source control is disabled
+[2019.01.26-13.58.04:771][  0]SourceControl: Info Source control is disabled
+[2019.01.26-13.58.04:790][  0]SourceControl: Info Source control is disabled
+[2019.01.26-13.58.05:203][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2019.01.26-13.58.05:203][  0]LogUObjectAllocator: 4803536 out of 0 bytes used by permanent object pool.
+[2019.01.26-13.58.05:291][  0]LogEngine: Initializing Engine...
+[2019.01.26-13.58.05:500][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-13.58.05:601][  0]LogInit: FAudioDevice initialized.
+[2019.01.26-13.58.05:645][  0]LogAIModule: Creating AISystem for world NewWorld
+[2019.01.26-13.58.05:700][  0]LogDerivedDataCache: Saved boot cache 0.05s 39MB C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2019.01.26-13.58.05:716][  0]LogInit: Texture streaming: Enabled
+[2019.01.26-13.58.05:830][  0]LogInit: Transaction tracking system initialized
+[2019.01.26-13.58.06:058][  0]BlueprintLog: New page: Editor Load
+[2019.01.26-13.58.06:113][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2019.01.26-13.58.06:115][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2019.01.26-13.58.06:921][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.26-13.58.07:383][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.26-13.58.07:815][  0]LogConsoleResponse:Display: 
+[2019.01.26-13.58.08:395][  0]SourceControl: Info Source control is disabled
+[2019.01.26-13.58.08:395][  0]Cmd: MAP LOAD FILE="../../../../../../Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1
+[2019.01.26-13.58.10:108][  0]LogFileManager:Warning: ReadFile failed: Count=0 Length=2656015976 Error=The operation completed successfully. for file ../../../../../../Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2019.01.26-13.58.11:322][  0]LogWindows:Error: Windows GetLastError: The operation completed successfully. (0)
+[2019.01.26-13.58.12:556][  0]LogWindows: === Critical error: ===
+Fatal error: [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.5\Engine\Source\Runtime\Core\Private\HAL\FileManagerGeneric.cpp] [Line: 608] 
+Invalid BufferCount=0 while reading ../../../../../../Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap. Pos=2656017000, Size=12181822, PrecacheSize=2147483647, PrecacheOffset=2656017000
+
+
+KERNELBASE.dll!UnknownFunction (0x00007ffdfc3b5299) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdb00371c4) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdafec979f) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdafdd8767) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdafdf56fd) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdaff09f01) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdaff090ba) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdaff09521) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ffdaff5a8e4) + 0 bytes [UnknownFile:0]
+UE4Editor-CoreUObject.dll!UnknownFunction (0x00007ffdafaff31a) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae53d06e) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae53656c) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae5283dd) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae51566d) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae876fa0) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae590254) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae58ff18) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae8aff03) + 0 bytes [UnknownFile:0]
+UE4Editor-UnrealEd.dll!UnknownFunction (0x00007ffdae875cc0) + 0 bytes [UnknownFile:0]
+UE4Editor.exe!GuardedMain() (0x00007ff6cc2ef91d) + 0 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\launch.cpp:125]
+UE4Editor.exe!GuardedMainWrapper() (0x00007ff6cc2efa4a) + 5 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:125]
+UE4Editor.exe!WinMain() (0x00007ff6cc2fbf19) + 17 bytes [d:\buildfarm\buildmachine_++depot+ue4-releases+4.5\engine\source\runtime\launch\private\windows\launchwindows.cpp:201]
+UE4Editor.exe!__tmainCRTStartup() (0x00007ff6cc2fcdc9) + 21 bytes [f:\dd\vctools\crt\crtw32\dllstuff\crtexe.c:618]
+KERNEL32.DLL!UnknownFunction (0x00007ffdff947e94) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x00007ffdffc8a251) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x00007ffdffc8a251) + 0 bytes [UnknownFile:0]
+
+
+[2019.01.26-13.58.12:749][  0]LogExit: Executing StaticShutdownAfterError
+[2019.01.26-13.58.16:574][  0]LogFileManager:Warning: ReadFile failed: Count=0 Length=1611076530 Error=The operation completed successfully. for file ../../../../../../Users/PaulCornelDeveloper/Documents/UnrealEngineAITest/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2019.01.26-13.58.16:632][  0]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.01.26-13.58.16:703][  0]Log file closed, 01/26/19 15:58:16
